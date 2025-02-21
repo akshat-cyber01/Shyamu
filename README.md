@@ -18,7 +18,7 @@ Welcome to **Shyamu**, a decentralized smart contract-based vault that allows us
 - ⚡ **Gas Efficient**: Optimized smart contract code to minimize gas fees on transactions.
 
 ## 📜 **Deployed Contract Address**
-- **Edu Chain Address**: `YOUR_DEPLOYED_CONTRACT_ADDRESS_HERE`
+- **Edu Chain Address**: ``
 
 ## 📖 **Usage**
 1. Connect your wallet to the Edu Chain.
